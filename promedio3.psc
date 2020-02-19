@@ -34,5 +34,8 @@ Funcion rsdo = MediaVector(v,tam)
 	FinPara
 FinFuncion
 
+
+
+
 	
-FinAlgoritmo
+
